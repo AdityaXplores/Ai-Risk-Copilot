@@ -8,7 +8,7 @@ AI Compliance Risk Copilot is an enterprise-grade Governance, Risk, and Complian
 ## 🖥️ Application UI
 
 <p align="center">
-  <img src="./images/ui-collage.png" alt="AI Compliance Risk Copilot UI" width="100%">
+  <img src="./frontend/ai.png" alt="AI Compliance Risk Copilot UI" width="100%">
 </p>
 
 ---
