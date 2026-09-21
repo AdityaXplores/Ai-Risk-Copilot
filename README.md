@@ -13,9 +13,6 @@ AI Compliance Risk Copilot is an enterprise-grade Governance, Risk, and Complian
 
 ---
 
-
----
-
 ## Architecture Overview
 
 ```mermaid
