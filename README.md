@@ -2,6 +2,18 @@
 
 AI Compliance Risk Copilot is an enterprise-grade Governance, Risk, and Compliance (GRC) platform that parses regulatory files, contracts, and legal agreements to extract clauses, audit regulatory alignment, calculate predictive risk indices, and generate C-suite executive summaries.
 
+
+---
+
+## 🖥️ Application UI
+
+<p align="center">
+  <img src="./images/ui-collage.png" alt="AI Compliance Risk Copilot UI" width="100%">
+</p>
+
+---
+
+
 ---
 
 ## Architecture Overview
